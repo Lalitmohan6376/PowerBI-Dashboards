@@ -10,14 +10,14 @@ Each project focuses on transforming raw data into meaningful insights through c
 
 Inside this repository, you will find:
 
-* 📈 Interactive Power BI Dashboards
-* 📄 PDF Versions of Dashboard Reports
-* 📊 Data Analysis and Visualization Projects
-* 🧹 Cleaned and Structured Datasets
-* 📌 KPI and Business Performance Reports
-* 🎯 Real-world Analytics Use Cases
-* 📉 Trend and Performance Analysis
-* 🔍 Insightful Charts and Visual Reports
+* 📈 Interactive Power BI Dashboards.
+* 📄 PDF Versions of Dashboard Reports.
+* 📊 Data Analysis and Visualization Projects.
+* 🧹 Cleaned and Structured Datasets.
+* 📌 KPI and Business Performance Reports.
+* 🎯 Real-world Analytics Use Cases.
+* 📉 Trend and Performance Analysis.
+* 🔍 Insightful Charts and Visual Reports.
 
 ## ✨ Features
 
